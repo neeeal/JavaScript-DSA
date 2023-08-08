@@ -1,2 +1,2 @@
-# Javascript-DSA
+# JavaScript-DSA
 ## Personal Progress Tracker
